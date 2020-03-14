@@ -12,3 +12,5 @@ fields:
   type: boolean
   label: socialShare
   default: true
+pages:
+- content/posts/rallye2020.md
