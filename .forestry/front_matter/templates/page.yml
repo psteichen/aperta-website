@@ -20,3 +20,5 @@ fields:
 - type: boolean
   name: socialShare
   label: socialShare
+pages:
+- content/page/contact.md
