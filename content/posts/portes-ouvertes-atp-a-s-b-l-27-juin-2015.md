@@ -1,6 +1,5 @@
 +++
 date = 2015-05-09T22:00:00Z
-draft = true
 socialshare = true
 title = "Portes ouvertes ATP a.s.b.l. - 27 Juin 2015"
 
