@@ -1,6 +1,5 @@
 +++
 date = 2019-03-19T23:00:00Z
-draft = true
 socialshare = true
 title = "Rallye automobile APERTA Open 2019"
 
