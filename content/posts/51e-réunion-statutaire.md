@@ -1,6 +1,5 @@
 +++
 date = 2015-12-27T23:00:00Z
-draft = true
 socialshare = true
 title = "51e réunion statutaire "
 
