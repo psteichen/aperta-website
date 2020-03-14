@@ -13,6 +13,7 @@ fields:
   label: socialShare
   default: true
 pages:
+- content/posts/51e-réunion-statutaire.md
 - content/posts/foire-aux-vins-6-7-et-8-mars-2015.md
 - content/posts/portes-ouvertes-atp-a-s-b-l-27-juin-2015.md
 - content/posts/rallye2020.md
