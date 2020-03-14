@@ -1,0 +1,22 @@
+---
+label: page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: subtitle
+- type: boolean
+  name: comments
+  label: comments
+- type: boolean
+  name: socialShare
+  label: socialShare
