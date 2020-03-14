@@ -13,4 +13,5 @@ fields:
   label: socialShare
   default: true
 pages:
+- content/posts/foire-aux-vins-6-7-et-8-mars-2015.md
 - content/posts/rallye2020.md
