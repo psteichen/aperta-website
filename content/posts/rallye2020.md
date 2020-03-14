@@ -6,4 +6,4 @@ socialshare: true
 ---
 [![](/img/rallye2020.png)](mailto:board@aperta.lu?Subject=Rallye%202020)
 
-&rarr; [Inscriptions ou autres demandes](mailto:board@aperta.lu?Subject=Rallye%202020)
+→ [Inscriptions ou autres demandes](mailto:board@aperta.lu?Subject=Rallye%202020)
