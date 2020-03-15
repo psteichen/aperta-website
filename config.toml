@@ -44,5 +44,5 @@ theme = "beautifulhugo"
 
 [Author]
   name = "pst"
-  website = "pst.libre.lu"
+  website = "https://pst.libre.lu"
   email = "pst@libre.lu"
