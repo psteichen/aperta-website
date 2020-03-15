@@ -4,4 +4,4 @@ socialshare = true
 title = "Portes ouvertes ATP a.s.b.l. - 27 Juin 2015"
 
 +++
-[![](/img/portes-ouvertes-atp-2015.jpg)]()
+![](/img/portes-ouvertes-atp-2015.jpg)
