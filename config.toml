@@ -43,6 +43,6 @@ theme = "beautifulhugo"
   desc = ""
 
 [Author]
-  name = "aperta"
-  website = ""
-  email = "info@aperta.lu"
+  name = "pst"
+  website = "pst.libre.lu"
+  email = "pst@libre.lu"
