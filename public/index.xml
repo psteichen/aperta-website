@@ -8,7 +8,7 @@
     <language>fr-fr</language>
     <managingEditor>info@aperta.lu (aperta)</managingEditor>
     <webMaster>info@aperta.lu (aperta)</webMaster>
-    <lastBuildDate>Sat, 14 Mar 2020 12:36:44 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 11:36:44 +0000</lastBuildDate>
     
 	<atom:link href="http://aperta.lu/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,10 +16,85 @@
     <item>
       <title>Rallye automobile APERTA Open 2020</title>
       <link>http://aperta.lu/posts/rallye2020/</link>
-      <pubDate>Sat, 14 Mar 2020 12:36:44 +0100</pubDate>
+      <pubDate>Sat, 14 Mar 2020 11:36:44 +0000</pubDate>
       <author>info@aperta.lu (aperta)</author>
       <guid>http://aperta.lu/posts/rallye2020/</guid>
       <description>→ Inscriptions ou autres demandes</description>
+    </item>
+    
+    <item>
+      <title>Rallye automobile APERTA Open 2019</title>
+      <link>http://aperta.lu/posts/rallye-automobile-aperta-open-2019/</link>
+      <pubDate>Tue, 19 Mar 2019 23:00:00 +0000</pubDate>
+      <author>info@aperta.lu (aperta)</author>
+      <guid>http://aperta.lu/posts/rallye-automobile-aperta-open-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fête de l&#39;amitié 2018</title>
+      <link>http://aperta.lu/posts/f%C3%AAte-de-l-amiti%C3%A9-2018/</link>
+      <pubDate>Wed, 18 Apr 2018 22:00:00 +0000</pubDate>
+      <author>info@aperta.lu (aperta)</author>
+      <guid>http://aperta.lu/posts/f%C3%AAte-de-l-amiti%C3%A9-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tournoi de pétanque 9 juillet 2016 Mess Café, Reckange-sur-Mess</title>
+      <link>http://aperta.lu/posts/tournoi-de-p%C3%A9tanque-9-juillet-2016-mess-caf%C3%A9-reckange-sur-mess/</link>
+      <pubDate>Mon, 09 May 2016 22:00:00 +0000</pubDate>
+      <author>info@aperta.lu (aperta)</author>
+      <guid>http://aperta.lu/posts/tournoi-de-p%C3%A9tanque-9-juillet-2016-mess-caf%C3%A9-reckange-sur-mess/</guid>
+      <description>Les photos </description>
+    </item>
+    
+    <item>
+      <title>51e réunion statutaire </title>
+      <link>http://aperta.lu/posts/51e-r%C3%A9union-statutaire/</link>
+      <pubDate>Sun, 27 Dec 2015 23:00:00 +0000</pubDate>
+      <author>info@aperta.lu (aperta)</author>
+      <guid>http://aperta.lu/posts/51e-r%C3%A9union-statutaire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portes ouvertes ATP a.s.b.l. - 27 Juin 2015</title>
+      <link>http://aperta.lu/posts/portes-ouvertes-atp-a-s-b-l-27-juin-2015/</link>
+      <pubDate>Sat, 09 May 2015 22:00:00 +0000</pubDate>
+      <author>info@aperta.lu (aperta)</author>
+      <guid>http://aperta.lu/posts/portes-ouvertes-atp-a-s-b-l-27-juin-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foire aux Vins - 6,7 et 8 Mars 2015</title>
+      <link>http://aperta.lu/posts/foire-aux-vins-6-7-et-8-mars-2015/</link>
+      <pubDate>Thu, 05 Feb 2015 23:00:00 +0000</pubDate>
+      <author>info@aperta.lu (aperta)</author>
+      <guid>http://aperta.lu/posts/foire-aux-vins-6-7-et-8-mars-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefiz FootballSpill 2014</title>
+      <link>http://aperta.lu/posts/benefiz-football/</link>
+      <pubDate>Thu, 12 Jun 2014 20:02:52 +0000</pubDate>
+      <author>info@aperta.lu (aperta)</author>
+      <guid>http://aperta.lu/posts/benefiz-football/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soirée de la Charte</title>
+      <link>http://aperta.lu/posts/soiree-charte/</link>
+      <pubDate>Mon, 10 Mar 2014 20:55:47 +0100</pubDate>
+      <author>info@aperta.lu (aperta)</author>
+      <guid>http://aperta.lu/posts/soiree-charte/</guid>
+      <description>à partir de 18h30, au restaurant Les Espaces Réunions 3, rue de la Poudrerie à Leudelange
+→ Inscription
+Déroulement de la soirée  18h30 : Accueil et apéritif 19h30 : Séance Académique  Lecture de la Charte Cérémonie des Colliers Échanges des Fanions   20h45 : Dîner  Participation: 85€ par personne.
+Tenue de ville souhaitée, merci de respecter les horaires. Parking assuré à proximité.</description>
     </item>
     
     <item>
