@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on FIFTY-ONE Luxembourg-APERTA</title>
-    <link>http://aperta.lu/page/</link>
+    <link>https://aperta.lu/page/</link>
     <description>Recent content in Pages on FIFTY-ONE Luxembourg-APERTA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <managingEditor>info@aperta.lu (aperta)</managingEditor>
-    <webMaster>info@aperta.lu (aperta)</webMaster>
+    <managingEditor>pst@libre.lu (pst)</managingEditor>
+    <webMaster>pst@libre.lu (pst)</webMaster>
     
-	<atom:link href="http://aperta.lu/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aperta.lu/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://aperta.lu/page/contact/</link>
+      <link>https://aperta.lu/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@aperta.lu (aperta)</author>
-      <guid>http://aperta.lu/page/contact/</guid>
+      <author>pst@libre.lu (pst)</author>
+      <guid>https://aperta.lu/page/contact/</guid>
       <description> Membres fondateurs </description>
     </item>
     
