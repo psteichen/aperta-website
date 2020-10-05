@@ -1,48 +1,40 @@
+DefaultContentLanguage = "fr"
 baseURL = "https://aperta.lu/"
 languageCode = "fr-fr"
-DefaultContentLanguage = "fr"
-title = "FIFTY-ONE Luxembourg-APERTA"
 theme = "beautifulhugo"
-
-[[menu.main]]
-    name = "Activités"
-    url = ""
-    weight = 1
-
-[[menu.main]]
-    name = "Contact"
-    url = "page/contact/"
-    weight = 2
-
-[[menu.main]]
-    name = "Accès Membres"
-    url = "https://cms.aperta.lu/"
-    weight = 3
-
-
-[Params]
-  hometitle = "Amitié, Estime, Tolérance"
-  subtitle = "FIFTY-ONE Luxembourg-APERTA"
-  mainSections = ["post","posts"]
-  logo = "img/logo-aperta.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
-  dateFormat = "2 Jan 2006"
-  commit = false
-  rss = false
-  comments = false
-  readingTime = false
-  wordCount = false
-  useHLJS = true
-  socialShare = true
-  delayDisqus = false
-  showRelatedPosts = false
-  hideAuthor = true
-
-[[Params.bigimg]]
-  src = "img/aperta-bg.png"
-  desc = ""
-
+title = "FIFTY-ONE Luxembourg-APERTA"
 [Author]
-  name = "pst"
-  website = "https://pst.libre.lu"
-  email = "pst@libre.lu"
+email = "pst@libre.lu"
+name = "pst"
+website = "https://pst.libre.lu"
+[Params]
+comments = false
+commit = false
+dateFormat = "2 Jan 2006"
+delayDisqus = false
+favicon = "img/favicon.ico"
+hideAuthor = true
+hometitle = "Amitié, Estime, Tolérance"
+logo = "img/logo-aperta.png"
+mainSections = ["post", "posts"]
+readingTime = false
+rss = false
+showRelatedPosts = false
+socialShare = true
+subtitle = "FIFTY-ONE Luxembourg-APERTA"
+useHLJS = true
+wordCount = false
+[[Params.bigimg]]
+desc = ""
+src = "img/aperta-bg.png"
+[[menu.main]]
+name = "Accès Membres"
+url = "https://cms.aperta.lu/"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "page/contact/"
+weight = 2
+[[menu.main]]
+name = "Activités"
+weight = 1
